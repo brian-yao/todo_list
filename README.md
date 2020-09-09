@@ -1,4 +1,4 @@
-# todo_list
+# todo_list app
 
 Todo list built using Javascript, Html, and CSS. 
 
